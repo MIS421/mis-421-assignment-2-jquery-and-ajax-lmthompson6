@@ -1,5 +1,5 @@
 # MIS 421 Assignment 2: JQuery and AJAX
-
+REMEMBER: program.cs>use default files not static files
 >For this assignment, you will be creating a Bing Search API using your Microsoft Azure account and using it to construct a simple web search site. Follow these steps to create the Search API:
   1. Go to https://portal.azure.com/, login to your account if prompted.
   2. Click 'Create a resource' from the menu on the left.
